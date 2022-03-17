@@ -6,8 +6,8 @@ Bash script to use on fresh installation of Kali Linux to stuff it up. I've made
 Kali Linux
 
 ### Usage
-```
+```bash
 wget https://raw.githubusercontent.com/thatdarkw/stuffup/main/stuffup.sh
-chmod +x stuff.sh
-./stuff.sh
+chmod +x stuffup.sh
+./stuffup.sh <directory>
 ```
